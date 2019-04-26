@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	height:100%;
+	background: #fdfcf8;
+	font-family: "微软雅黑";
+}
+span{
+ 	font-size: 14px;
+    color: #000000;
+}
+.wrap{
+	width: 1000px;
+    margin: auto;
+    min-height: 100px;
+}
+.row{
+	line-height: 1.5;
+	margin-top: 10px;
+}
+.row-title{
+	background: url(../img/line.jpg) 76px 7px no-repeat;
+}
+.person-basic{
+	margin-top: 20px;
+}
+.person-info{
+	padding:15px 10px;
+}
+.img-person{
+	height: 172px;
+}
+.basic-info{
+	margin-top: 15px;
+}
+.span-nanme{
+	 font-size: 200%;
+}
+.span-gen{
+	 color:#5D5D5D;
+	 font-size: 16px;
+}
+.span-tittle{
+	color: #5D5D5D;
+    font-size: 15px;
+    font-weight: 500;
+}
+.tilttle-firt{
+	 font-size: 130%;
+}
+.row-title-right{
+	background: url(../img/line.jpg) 80px 7px no-repeat;
+}
+.span-status{
+	background-color: #7B7B7B;
+}
+.span-status-text{
+	color: #FFFFFF; 
+	margin: 5px;
+}
+.span-time-right{
+	float: right;
+}
+.span-model{
+	font-size: 18px;
+}
